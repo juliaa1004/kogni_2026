@@ -1,1 +1,5 @@
 data/
+
+.DS_Store
+.ipynb_checkpoints/
+laboratories/lab_2/UD_Polish-PDB/
